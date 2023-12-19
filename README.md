@@ -2,7 +2,7 @@
 
 I'm Delilah - gamedev 🎮 and software developer. VR is my soft spot. Most of my projects are private (sorry) or commercial (not here).
  
-I like (statically) typed languages and particle systems. My tool of choice for creating interactive experiences is, at the moment, Unity. 
+I like (statically) typed languages and particle systems. My tool of choice for creating interactive experiences is, at the moment, Unity. Playing with Unreal as well, and always eager to get my hands dirty with (new and old) tech!
 
 Currently obsessed with plants, cats, pizza and shaders 🌐✨.
 
