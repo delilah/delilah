@@ -7,7 +7,7 @@ I like (statically) typed languages and particle systems. My tool of choice for 
 Currently obsessed with plants, cats, pizza and shaders 🌐✨.
 
 
-[Here](https://github.com/delilah/bites 'Portfolio') you can find some of my favourite projects. Find me on [LinkedIn](https://www.linkedin.com/in/delilah 'LinkedIn')  💻
+[Here](https://delilah.github.io 'Portfolio') you can find some of my favourite projects. Find me on [LinkedIn](https://www.linkedin.com/in/delilah 'LinkedIn')  💻
 
 
 
