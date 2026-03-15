@@ -12,13 +12,11 @@ I like (statically) typed languages and particle systems. I juggled more languag
 
 Currently obsessed with plants, cats, pizza and shaders 🌐✨
 
-Based in Amsterdam, NL
 
 
 ## 🌐 WEB
 
 [Here](https://delilah.github.io 'Portfolio') you can find some of my favourite projects. Find me on [LinkedIn](https://www.linkedin.com/in/delilah 'LinkedIn')  💻 
-
 
 
 
